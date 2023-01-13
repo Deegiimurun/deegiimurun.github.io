@@ -17,7 +17,7 @@
         </p>
         <ul>
             Full CV:
-            <a href="public/files/cv.pdf" target="_blank">cv.pdf</a>
+            <a href="https://deegiimurun.github.io/public/files/cv.pdf" target="_blank">cv.pdf</a>
         </ul>
         <ul>
             {language.text.profile.acheivements}
