@@ -56,8 +56,7 @@ let eng = {
         save: "save",
     },
     profile: {
-        topText: `Hi, I'm Delgermurun, a software developer based in Mongolia. I mostly work in the
-        back end and this site is actually my second front end project. Also
+        topText: `Hi, I'm Delgermurun, a software developer based in Mongolia. I am fullstack engineer with lots of experience. Also
         dabbled a lot with game developing and systems programming. Willing to work in any
         interesting project tho.`,
         acheivements: "Briefs:",
