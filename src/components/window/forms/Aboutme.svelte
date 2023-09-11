@@ -48,7 +48,7 @@
 
         <ul>
             {language.text.profile.languages}
-            <li>Java, Kotlin, C#, SQL, Javascript, Typescript, Rust, Go, Python</li>
+            <li>Java, Kotlin, C#, SQL, Javascript, Typescript, Rust, Go, Elixir</li>
             <li />
             {language.text.profile.technologies}
             <li>
